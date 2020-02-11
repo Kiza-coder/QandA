@@ -17,3 +17,11 @@
 /home/user/QandA/backend/obj/Debug/netcoreapp3.1/backend.dll
 /home/user/QandA/backend/obj/Debug/netcoreapp3.1/backend.pdb
 /home/user/QandA/backend/bin/Debug/netcoreapp3.1/frontend/package.json
+/home/user/QandA/backend/bin/Debug/netcoreapp3.1/Dapper.dll
+/home/user/QandA/backend/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/home/user/QandA/backend/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/home/user/QandA/backend/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/home/user/QandA/backend/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/home/user/QandA/backend/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/user/QandA/backend/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/user/QandA/backend/obj/Debug/netcoreapp3.1/backend.csproj.CopyComplete
